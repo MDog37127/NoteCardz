@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteCardz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">correct</string>
+    <string name="incorrect_toast">incorrect</string>
+    <string name="question_onion">Does McLennan like onions?</string>
+    <string name="question_games">Is McLennan\'s favorite Pokemon Charizard?</string>
+    <string name="question_dessert">McLennan thinks eating mint flavored things taste like toothpaste.</string>
+</resources>
